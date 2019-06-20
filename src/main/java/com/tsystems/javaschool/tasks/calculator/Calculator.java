@@ -9,6 +9,7 @@ public class Calculator {
         if ((statement == null) || (statement.equals(""))) {
             return null;
         }
+        if(statement.contains("//")) return null;
         for (int i = 0; i < statement.length(); i++) {
             char c = statement.charAt(i);
             if ((!Character.isDigit(c)) && (c != '-') && (c != '+') && (c != '.') && (c != ')') && (c != '(') && (c != '/') && (c != '*')) {
