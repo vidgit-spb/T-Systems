@@ -12,8 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Bataliants Alexander
-* Codeship : https://app.codeship.com/projects/069258d0-75cf-0137-4dc3-123c0bfaef40/status?branch=master
-
+* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/069258d0-75cf-0137-4dc3-123c0bfaef40/status?branch=master](https://app.codeship.com/projects/349739)
 
 
 ### How to start?  ###
